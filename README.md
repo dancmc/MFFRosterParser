@@ -6,10 +6,10 @@
 
 **Images accepted :**
 - Details page
-![details](http://imgur.com/FKwpuFI)
+![details](http://i.imgur.com/FKwpuFI.png)
 
 - Gears page
-![gears](http://imgur.com/yXNrrka)
+![gears](http://i.imgur.com/yXNrrka.png)
 
 **Output designed to work with :**
 
